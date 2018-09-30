@@ -1,12 +1,18 @@
 # git-training
 
+## À faire
+
 - Retrouvez les slides de la présentation là:
-  - [slides PDF](slides/cours_git_10.pdf)
-  - [slides icloud](https://www.icloud.com/keynote/0RjmNQpcIv11Fn32BjuVEMQxw#adv_development_10)
+
+  - [slides PDF](slides/adv_development_12.pdf) - clic-droit > sauver sous
+  - [slides icloud](https://www.icloud.com/keynote/0IQvGczRcfl5ZXEym2goaYM1w#adv_development_12)
+
 - Téléchargez et installez git pour:
-  - [windows](https://git-scm.com/download/win)
-  - linux: ``apt get install git gitk`` / ``yum install git gitk``
-- (optionnel) Téléchargez et installez [code](https://code.visualstudio.com/Download)
+  - windows: [git-scm](https://git-scm.com/download/win)
+  - linux:
+    - debian: `sudo apt get install git gitk`
+    - centos: `sudo yum install git gitk`
+- (optionel) Téléchargez et installez [code](https://code.visualstudio.com/Download)
 
 ## Licence
 
